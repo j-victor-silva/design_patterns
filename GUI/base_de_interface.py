@@ -28,3 +28,4 @@ if __name__ == '__main__':
     app = App()
     app.show()
     qt.exec_()
+    
